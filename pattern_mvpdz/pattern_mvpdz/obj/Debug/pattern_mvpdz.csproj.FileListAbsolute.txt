@@ -1,0 +1,10 @@
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\bin\Debug\pattern_mvpdz.exe.config
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\bin\Debug\pattern_mvpdz.exe
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\bin\Debug\pattern_mvpdz.pdb
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\obj\Debug\pattern_mvpdz.csprojAssemblyReference.cache
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\obj\Debug\MPV_END.Form1.resources
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\obj\Debug\pattern_mvpdz.Properties.Resources.resources
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\obj\Debug\pattern_mvpdz.csproj.GenerateResource.cache
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\obj\Debug\pattern_mvpdz.csproj.CoreCompileInputs.cache
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\obj\Debug\pattern_mvpdz.exe
+C:\Users\Bila_jp56\source\repos\pattern_mvpdz\pattern_mvpdz\obj\Debug\pattern_mvpdz.pdb
